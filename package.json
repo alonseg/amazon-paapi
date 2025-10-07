@@ -1,5 +1,5 @@
 {
-  "name": "@anial/amazon-paapi",
+  "name": "@alonseg/amazon-paapi",
   "version": "1.0.8",
   "description": "Amazon Associate Product Advertising API for NodeJs. A maintained fork of the original PAAPI 5.0 Extension since the original is no longer maintained.",
   "main": "app.js",
